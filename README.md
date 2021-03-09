@@ -15,7 +15,7 @@ Add it in your root build.gradle at the end of repositories:
 	        implementation 'com.github.ExploitTheLoop:writemem:Tag'
 	}
 	
- step 3 example :
+ step 3 example 
  
   try {
             //初始化插件

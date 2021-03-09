@@ -17,7 +17,7 @@ Add it in your root build.gradle at the end of repositories:
 	
  step 3 example 
  
-  try {
+
             //初始化插件
             AllTools.initUtil("包名");
 
@@ -61,7 +61,4 @@ Add it in your root build.gradle at the end of repositories:
             MemoryWrite.one = false;//将对应的线程号设置为false即可关闭
 
 
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
-    }
+       
